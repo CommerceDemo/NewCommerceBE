@@ -10,5 +10,6 @@
 
 ### 주요 라이브러리
 * Junit5
+* Restdocs
 * TestContainers
 * Mapstruct
